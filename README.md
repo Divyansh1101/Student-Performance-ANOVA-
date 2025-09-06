@@ -5,7 +5,7 @@ A **statistical analysis tool** to perform **ANOVA (Analysis of Variance)** on s
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
-![Last Commit](https://img.shields.io/github/last-commit/Divyansh1101/Student-Performance-ANOVA?style=flat-square)  
+![Last Commit](https://img.shields.io/github/last-commit/Divyansh1101/Student-Performance-ANOVA-?style=flat-square)  
 
 ---
 
